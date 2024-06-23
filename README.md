@@ -83,11 +83,12 @@ Cointab Software Private Limited
 
 ● Difference Between Expected Charges and Billed Charges (Rs.)
 
+
 Output Data 2
 
 Create a summary table
 
-Count Amount (Rs.)
+                                                                                  Count Amount (Rs.)
 
 Total orders where X has been correctly charged <count> <total invoice amount>
 
