@@ -1,8 +1,5 @@
 # Business Scenario
-You are a data analyst and your client has a large ecommerce company in India (let’s call it X).
-X gets a thousand orders via their website on a daily basis and they have to deliver them as fast
-as they can. For delivering the goods ordered by the customers, X has tied up with multiple
-courier companies in India as delivery partners who charge them some amount per delivery.
+You are a data analyst and your client has a large ecommerce company in India (let’s call it X). X gets a thousand orders via their website on a daily basis and they have to deliver them as fast as they can. For delivering the goods ordered by the customers, X has tied up with multiple courier companies in India as delivery partners who charge them some amount per delivery.
 
 The charges are dependent upon two factors:
 
@@ -61,23 +58,33 @@ RHS Data (courier company invoice in CSV file)
 Output Data 1
 
 Create a resultant CSV/Excel file with the following columns:
+
 ● Order ID
+
 ● AWB Number
+
 ● Total weight as per X (KG)
+
 ● Weight slab as per X (KG)
+
 ● Total weight as per Courier Company (KG)
+
 ● Weight slab charged by Courier Company (KG)
+
 ● Delivery Zone as per X
-Website: cointab.in Email: work@cointab.in
 
 Cointab Software Private Limited
 
 ● Delivery Zone charged by Courier Company
+
 ● Expected Charge as per X (Rs.)
+
 ● Charges Billed by Courier Company (Rs.)
+
 ● Difference Between Expected Charges and Billed Charges (Rs.)
 
 Output Data 2
+
 Create a summary table
 
 Count Amount (Rs.)
